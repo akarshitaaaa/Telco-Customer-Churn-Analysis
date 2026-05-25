@@ -263,23 +263,10 @@ The **Customer Dashboard** (`Customer_Dashboard.pbix`) is a single-file interact
 
 > **Main Dashboard Page**
 
-![Dashboard Main Page](assets/screenshots/dashboard_main.png)
+![Dashboard Main Page](<img width="1309" height="731" alt="image" src="https://github.com/user-attachments/assets/16a2d34a-614f-4a74-82eb-8101e9fbcb6f" />
+)
 *← Add your Power BI screenshot here*
 
-> **T1 — Monthly Charges by Contract**
-
-![Monthly Charges by Contract](assets/screenshots/dashboard_T1_monthly_charges.png)
-*← Add your Power BI screenshot here*
-
-> **T2 — Tenure Distribution by Contract**
-
-![Tenure by Contract](assets/screenshots/dashboard_T2_tenure.png)
-*← Add your Power BI screenshot here*
-
-> **Q/A Page**
-
-![Q&A Page](assets/screenshots/dashboard_QA.png)
-*← Add your Power BI screenshot here*
 
 > 📂 **Dashboard file:** `Customer_Dashboard.pbix`
 > Open in **Power BI Desktop** → connect to `Telco-Customer-Churn.csv` if prompted to refresh the data source.
