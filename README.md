@@ -263,8 +263,8 @@ The **Customer Dashboard** (`Customer_Dashboard.pbix`) is a single-file interact
 
 > **Main Dashboard Page**
 
-![Dashboard Main Page](<img width="1309" height="731" alt="image" src="https://github.com/user-attachments/assets/16a2d34a-614f-4a74-82eb-8101e9fbcb6f" />
-)
+![Dashboard Main Page]<img width="1310" height="732" alt="telco dashboard ss" src="https://github.com/user-attachments/assets/0444bb73-2212-440b-a4a7-faef6e170b2d" />
+
 *← Add your Power BI screenshot here*
 
 
